@@ -175,23 +175,6 @@ A blazing-fast, responsive portfolio website deployed on **Vercel**, showcasing 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakrauniyar963&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrauniyar963&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepakrauniyar963&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏅 Certifications & Achievements
 
 | 🎖️ Certificate | 🏛️ Issuer | 📅 Year |
