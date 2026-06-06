@@ -1,3 +1,5 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%" />
 <div align="center">
 
 # Hi, I'm Deepak Rauniyar 👋
@@ -79,46 +81,41 @@ MCA student at **Integral University, Lucknow**, focused on building **scalable 
 
 ## 🚀 Featured Projects
 
-### 🔐 SmartEntry2FA — Biometric Attendance System
+<table>
+<tr>
+<td width="50%">
 
-A secure dual-authentication system using face recognition and fingerprint verification.
+### 🔐 SmartEntry2FA
+> Dual-authentication biometric attendance system
 
-* OpenCV-based facial recognition system
-* R307 fingerprint sensor integration
-* Arduino-based hardware control
-* GSM SMS alert system (SIM800A module)
-* Automated email notifications
-* SQLite database for secure storage
+```
+├── Face recognition (OpenCV)
+├── Fingerprint sensor (R307)
+├── Arduino hardware control
+├── GSM SMS alerts (SIM800A)
+├── Automated email notifications
+└── SQLite secure storage
+```
+**Stack:** `Python` `OpenCV` `Arduino` `SQLite` `GSM`
 
-**Tech Stack:** Python • OpenCV • Arduino • SQLite • GSM Module
+</td>
+<td width="50%">
 
----
+### 🌐 Developer Portfolio
+> Showcasing skills, projects & experience
 
-### 📋 MERN Task Manager
+```
+├── Framer Motion animations
+├── Contact with me
+├── Responsive dark-first design
+├── OpenGraph SEO optimization
+├── Resume PDF modal viewer
+└── Deployed on Vercel
+```
+**Stack:** `React` `Tailwind CSS` `Framer Motion` `Vercel`
 
-A full-stack task management system with authentication and role-based access control.
-
-* JWT authentication system
-* Role-based access control (RBAC)
-* Task CRUD operations
-* Priority & deadline tracking
-* RESTful API architecture
-
-**Tech Stack:** MongoDB • Express • React • Node.js • JWT
-
----
-
-### 🌐 Portfolio Website
-
-A modern developer portfolio showcasing skills, projects, and experience.
-
-* Responsive UI with clean design
-* Component-based architecture
-* Contact form integration
-* Optimized performance
-* Deployed on Vercel
-
-**Tech Stack:** React.js • Tailwind CSS • JavaScript • Vercel
+</td>
+<table>
 
 ---
 
@@ -165,5 +162,7 @@ A modern developer portfolio showcasing skills, projects, and experience.
 ### ⚡ Build. Break. Learn. Scale.
 
 *"Strong engineers don’t just write code — they build systems that work in the real world."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%" />
 
 </div>
